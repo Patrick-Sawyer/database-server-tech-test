@@ -1,2 +1,2 @@
 require_relative './app.rb'
-run SpacedOut
+run RandomName

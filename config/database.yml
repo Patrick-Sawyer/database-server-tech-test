@@ -1,0 +1,13 @@
+development:
+  database: getset.sqlite
+  adapter: sqlite3
+  encoding: unicode
+  host: localhost
+  port: 2345
+
+test:
+  database: getset.sqliteTest
+  adapter: sqlite3
+  encoding: unicode
+  host: localhost
+  port: 2345

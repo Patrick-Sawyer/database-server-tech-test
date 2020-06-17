@@ -20,3 +20,9 @@ run
 rake db:migrate RACL_ENV=test
 ```
 
+run
+
+```
+rackup -p 4000
+
+```

@@ -31,4 +31,6 @@ To run (on port 4000 as specified in the brief) type the following, and navigate
 
 ## Testing
 
-This has unit tests (rspec) and feature tests (capybara). Only one for each but both cover the full functionality required. The table in the test database truncates after each test to avoid false positives.
+This has unit tests (rspec) and feature tests (capybara). Only one for each but both cover the full functionality required. The table in the test database truncates after each test to avoid false positives. To run tests type the following.
+
+`rspec`
